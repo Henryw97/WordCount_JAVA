@@ -1,3 +1,4 @@
 # WordCount_JAVA
-That's it!
+That's it! 
+
 JAR files needed by Eclipse
